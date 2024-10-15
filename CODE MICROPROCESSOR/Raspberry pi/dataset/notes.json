@@ -1,0 +1,33 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Cam vang"
+    },
+    {
+      "id": 1,
+      "name": "Cam xanh"
+    },
+    {
+      "id": 2,
+      "name": "Chuoi"
+    },
+    {
+      "id": 3,
+      "name": "Man cau"
+    },
+    {
+      "id": 4,
+      "name": "Tao"
+    },
+    {
+      "id": 5,
+      "name": "Xoai"
+    }
+  ],
+  "info": {
+    "year": 2024,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

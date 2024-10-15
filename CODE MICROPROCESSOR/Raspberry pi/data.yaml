@@ -1,0 +1,7 @@
+train: C:\Users\dell\OneDrive\Máy tính\yolo_8\project-6-at-2024-06-10-16-21-45d21ca6\train\images
+val: C:\Users\dell\OneDrive\Máy tính\yolo_8\project-6-at-2024-06-10-16-21-45d21ca6\valid\images
+test: C:\Users\dell\OneDrive\Máy tính\yolo_8\project-6-at-2024-06-10-16-21-45d21ca6\test\images
+
+nc: 6
+names: ['Cam vang', 'Cam xanh', 'Chuoi', 'Man cau', 'Tao', 'Xoai']
+
